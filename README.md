@@ -33,11 +33,11 @@ More details can be read in the following articles:
 - [Avoiding Misdiagnosis of Parkinson’s Disease With the Use of Wearable Sensors and Artificial Intelligence](https://ieeexplore.ieee.org/abstract/document/9208800)
 - [Comparative study of wearable sensors, video, and handwriting to detect Parkinson’s disease](https://ieeexplore.ieee.org/abstract/document/9779722)
 - [Defining optimal exercises for efficient detection of Parkinson’s disease using machine learning and wearable sensors](https://ieeexplore.ieee.org/abstract/document/9488665)
-- [Distinguishing between Parkinson’s disease and essential tremor through video analytics using machine learning: A pilot study](https://ieeexplore.ieee.org/abstract/document/9246541)
-</small>
+- [Distinguishing between Parkinson’s disease and essential tremor through video analytics using machine learning: A pilot study](https://ieeexplore.ieee.org/abstract/document/9246541) </small>
+
 :white_medium_square: <small> **2014 - 2018: Bachelor of Applied Mathematics and Physics (Moscow Institute of Physics and Technology, MIPT)**
 
-Graduated from the Faculty of Radio Engineering and Cybernetics, specialized in signal processing.</small>
+Graduated from the Faculty of Radio Engineering and Cybernetics, specialized in signal processing. </small>
 
 
 
