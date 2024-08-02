@@ -2,16 +2,16 @@
 
 #### Work Experience:
 
-:white_medium_square: **2021 - 2022: Junior Engineer (MIL Team)**
+##### :white_medium_square: **2021 - 2022: Junior Engineer (MIL Team)**
 
-Projects included working with reinforcement learning and pruning.
+##### Projects included working with reinforcement learning and pruning.
   
-:white_medium_square: **2020 - 2021: Junior Software Engineer (Skolkovo Institute of Science and Technology, Skoltech)**
+##### :white_medium_square: **2020 - 2021: Junior Software Engineer (Skolkovo Institute of Science and Technology, Skoltech)**
 
-I worked with cameras, Arduino, and reinforcement learning. The main goal was to create an algorithm for automatic camera focus adjustment on objects.
+##### I worked with cameras, Arduino, and reinforcement learning. The main goal was to create an algorithm for automatic camera focus adjustment on objects.
 
-More details can be read in the following article:
-- [Detect to focus: Latent-space autofocusing system with decentralized hierarchical multi-agent reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10214007)
+##### More details can be read in the following article:
+##### - [Detect to focus: Latent-space autofocusing system with decentralized hierarchical multi-agent reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10214007)
 
 
 ####  **Education:**
