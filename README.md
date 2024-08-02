@@ -3,11 +3,11 @@
 #### Work Experience:
 <hr style="border: 0.3px solid #dddddd;">
 
-:white_medium_square: <small> **2021 - 2022: Junior Engineer (MIL Team)**
+:brown_circle: <small> **2021 - 2022: Junior Engineer (MIL Team)**
 
 Projects included working with reinforcement learning and pruning.
   
-:white_medium_square: **2020 - 2021: Junior Software Engineer (Skolkovo Institute of Science and Technology, Skoltech)**
+:brown_circle: **2020 - 2021: Junior Software Engineer (Skolkovo Institute of Science and Technology, Skoltech)**
 
 I worked with cameras, Arduino, and reinforcement learning. The main goal was to create an algorithm for automatic camera focus adjustment on objects.
 
@@ -18,14 +18,14 @@ More details can be read in the following article:
 ####  **Education:**
 <hr style="border: 0.3px solid #dddddd;">
 
-:white_medium_square: <small> **2022 - Present: PhD Student at the University of Copenhagen**
+:brown_circle: <small> **2022 - Present: PhD Student at the University of Copenhagen**
 
 I am currently engaged in the field of artificial intelligence in medicine. My project focuses on the use of eye-tracking technologies to predict diagnostic errors by radiologists.
 
 More details can be read in the following articles:
 - [Recognition of radiological decision errors from eye movement during chest x-ray readings](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12929/3006781/Recognition-of-radiological-decision-errors-from-eye-movement-during-chest/10.1117/12.3006781.full#_=_) </small>
 
-:white_medium_square: <small> **2018 - 2020: Master in Information Science and Technology (Skolkovo Institute of Science and Technology, Skoltech)**
+:brown_circle: <small> **2018 - 2020: Master in Information Science and Technology (Skolkovo Institute of Science and Technology, Skoltech)**
 
 During my master's program, I focused on Parkinson's Disease. Collaborated with colleagues to develop an automatic diagnostic system for the disease using machine learning.
 
