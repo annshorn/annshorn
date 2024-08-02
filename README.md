@@ -9,7 +9,7 @@ I am currently engaged in the field of artificial intelligence in medicine. My p
 More details can be read in the following articles:
 - [Recognition of radiological decision errors from eye movement during chest x-ray readings](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12929/3006781/Recognition-of-radiological-decision-errors-from-eye-movement-during-chest/10.1117/12.3006781.full#_=_)
 
-:white_medium_square: **2018 - 2020: Master in Information Science and Technology (Skoltech)**
+:white_medium_square: **2018 - 2020: Master in Information Science and Technology (Skolkovo Institute of Science and Technology, Skoltech)**
 
 During my master's program, I focused on Parkinson's Disease. Collaborated with colleagues to develop an automatic diagnostic system for the disease using machine learning.
 
