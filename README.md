@@ -1,6 +1,7 @@
 ### Hi, I'm Anna Anikina
 
 ### Work Experience:
+---
 
 :white_medium_square: <small> **2021 - 2022: Junior Engineer (MIL Team)**
 
