@@ -1,7 +1,7 @@
 ### Hi, I'm Anna Anikina
 
 ### Work Experience:
-<hr style="border: 0.5px solid #dddddd;">
+<hr style="border: 0.3px solid #dddddd;">
 
 :white_medium_square: <small> **2021 - 2022: Junior Engineer (MIL Team)**
 
@@ -16,7 +16,7 @@ More details can be read in the following article:
 
 
 ###  **Education:**
-<hr style="border: 0.5px solid #dddddd;">
+<hr style="border: 0.3px solid #dddddd;">
 
 :white_medium_square: **2022 - Present: PhD Student at the University of Copenhagen**
 
