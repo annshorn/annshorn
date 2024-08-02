@@ -1,6 +1,6 @@
-## Hi, I'm Anna Anikina
+### Hi, I'm Anna Anikina
 
-### Work Experience:
+#### Work Experience:
 
 :white_medium_square: **2021 - 2022: Junior Engineer (MIL Team)**
 
@@ -14,7 +14,7 @@ More details can be read in the following article:
 - [Detect to focus: Latent-space autofocusing system with decentralized hierarchical multi-agent reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10214007)
 
 
-### **Education:**
+####  **Education:**
 
 :white_medium_square: **2022 - Present: PhD Student at the University of Copenhagen**
 
